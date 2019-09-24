@@ -1,4 +1,5 @@
 //multiply.js
 function multiply(a,b){
-//ToDo return
+	return a * b
+	//ToDo return
 };
