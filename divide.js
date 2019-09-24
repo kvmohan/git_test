@@ -1,4 +1,5 @@
 //divide.js
 function divide(a,b){
-//ToDo return
+	return a / b;
+	//ToDo return
 };
