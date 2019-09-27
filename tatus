@@ -1,0 +1,82 @@
+[33mcommit 6ba0962caa41eb39e203b53458e1581becbe0f0f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: kvmohan <vamsi_kvm@yahoo.com>
+Date:   Thu Sep 26 21:02:23 2019 +0530
+
+    changes updated to subtract function
+
+[33mcommit 1931b68319f17f53b2857ae30ec1ea0136fe8673[m[33m ([m[1;31morigin/testing-2[m[33m, [m[1;32mtesting-2[m[33m)[m
+Merge: 8922b0f b42510a
+Author: kvmohan <vamsi_kvm@yahoo.com>
+Date:   Wed Sep 25 23:51:24 2019 +0530
+
+    extra feature in subtract
+
+[33mcommit b42510a77598b78fe4dc0405d474ad135d37bd15[m[33m ([m[1;32mtesting[m[33m)[m
+Author: kvmohan <vamsi_kvm@yahoo.com>
+Date:   Wed Sep 25 22:19:19 2019 +0530
+
+    modulus function comment added
+
+[33mcommit 8922b0ffa24b3cf454163d38cfa70463f78e5816[m
+Author: kvmohan <vamsi_kvm@yahoo.com>
+Date:   Wed Sep 25 22:19:19 2019 +0530
+
+    modulus function comment added
+
+[33mcommit 61ecf4e1ef65fe550a20a8fc85ef1589bffcee17[m
+Author: kvmohan <vamsi_kvm@yahoo.com>
+Date:   Wed Sep 25 21:31:59 2019 +0530
+
+    add function comment added
+
+[33mcommit e43b4da5c2a0111f48becd30883d208a7a7749c0[m
+Author: kvmohan <vamsi_kvm@yahoo.com>
+Date:   Wed Sep 25 00:13:33 2019 +0530
+
+    divide function available
+
+[33mcommit 08fe6ac82e383354de7b9ba7e13663040ad41c0a[m[33m ([m[1;31morigin/testing[m[33m)[m
+Author: kvmohan <vamsi_kvm@yahoo.com>
+Date:   Tue Sep 24 23:00:06 2019 +0530
+
+    multiply function available
+
+[33mcommit 0103eacb1b7a07d1e3788c70a606abf3fde7ec59[m
+Author: kvmohan <vamsi_kvm@yahoo.com>
+Date:   Tue Sep 24 22:51:38 2019 +0530
+
+    subtract function available
+
+[33mcommit 895df81d0427d18afc4db6d4681d0de333749c8d[m
+Author: kvmohan <vamsi_kvm@yahoo.com>
+Date:   Tue Sep 24 22:09:15 2019 +0530
+
+    test.js
+    
+    added a 2nd line
+
+[33mcommit a86f88c87b3255b2c093cac5461762b0e3956642[m
+Author: kvmohan <vamsi_kvm@yahoo.com>
+Date:   Tue Sep 24 21:47:30 2019 +0530
+
+    changes committed in local repo for test1 file
+
+[33mcommit 3516a43d59b7339b5e5ad92edb0327ab8c823205[m
+Author: kvmohan <vamsi_kvm@yahoo.com>
+Date:   Tue Sep 24 21:41:01 2019 +0530
+
+    test1.txt
+    
+    updated commit in the repo
+
+[33mcommit 4c20cebb666cf85384138900b05bd58c443412e4[m
+Author: kvmohan <vamsi_kvm@yahoo.com>
+Date:   Tue Sep 24 19:14:26 2019 +0530
+
+    Changes Committed
+
+[33mcommit 9a8880f70e926740a4d1395b28e16dbef512d9fd[m
+Author: kvmohan <vamsi_kvm@yahoo.com>
+Date:   Mon Sep 23 22:48:49 2019 +0530
+
+    initial commit
